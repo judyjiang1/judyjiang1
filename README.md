@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack software development! 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on any fun projects! 
-- 📫 Please reach me at judyjiang0808@gmail.com
+- 📫 Please reach me at judyjiangdev@gmail.com
 
 <!---
 judyjiang1/judyjiang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
